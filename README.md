@@ -23,7 +23,7 @@
  <p align="left"><a href="https://t.me/cat_of_tg"><img src="https://te.legra.ph/file/3e4a637c82b4e8af8ef59.jpg" width="250"></a> </p> 
 
 <p align="left">  
-  <a href="https://t.me/GTHERO">
+  <a href="https://t.me/Cinimalokaham">
     <img src="https://img.shields.io/badge/%20%F0%9F%92%99-Telegram-blue?style=for-the-badge"/>
   </a>
   <a href="https://instagram.com/alwin_biju_2006">
