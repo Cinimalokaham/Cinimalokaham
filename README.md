@@ -20,7 +20,7 @@
 
 
 
- <p align="left"><a href="https://t.me/cat_of_tg"><img src="https://te.legra.ph/file/3e4a637c82b4e8af8ef59.jpg" width="250"></a> </p> 
+ <p align="left"><a href="https://t.me/cat_of_tg"><img src="https://te.legra.ph/file/94bc400ec947e39d0c028.jpg" width="250"></a> </p> 
 
 <p align="left">  
   <a href="https://t.me/Cinimalokaham">
